@@ -1,2 +1,2 @@
 # xamarin_flashlight
-A simple flashlight app built in xamarin .net
+A simple android flashlight app built in xamarin .net
