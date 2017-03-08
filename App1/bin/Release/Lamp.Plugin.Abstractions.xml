@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lamp.Plugin.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Lamp.Plugin.Abstractions.ILamp">
+            <summary>
+            Interface for Lamp
+            </summary>
+        </member>
+        <member name="M:Lamp.Plugin.Abstractions.ILamp.TurnOn">
+            <summary>
+            Turn the lamp on
+            </summary>
+        </member>
+        <member name="M:Lamp.Plugin.Abstractions.ILamp.TurnOff">
+            <summary>
+            Turn the lamp off
+            </summary>
+        </member>
+    </members>
+</doc>

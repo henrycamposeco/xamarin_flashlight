@@ -1,0 +1,4 @@
+Flashlight.MainActivity, Flashlight;md53f34fe507c0d117a50d6a0dd79a7312f.MainActivity
+Flashlight.MainActivity, Flashlight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53f34fe507c0d117a50d6a0dd79a7312f.MainActivity
+Flashlight.MainActivity;md53f34fe507c0d117a50d6a0dd79a7312f.MainActivity
+flashlight.MainActivity;md53f34fe507c0d117a50d6a0dd79a7312f.MainActivity

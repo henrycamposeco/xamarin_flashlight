@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lamp.Plugin</name>
+    </assembly>
+    <members>
+        <member name="T:Lamp.Plugin.CrossLamp">
+            <summary>
+            Cross platform Lamp implemenations
+            </summary>
+        </member>
+        <member name="P:Lamp.Plugin.CrossLamp.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+        <member name="T:Lamp.Plugin.LampImplementation">
+            <summary>
+            Implementation for Lamp
+            </summary>
+        </member>
+        <member name="M:Lamp.Plugin.LampImplementation.TurnOn">
+            <summary>
+            Turn the lamp on
+            </summary>
+        </member>
+        <member name="M:Lamp.Plugin.LampImplementation.TurnOff">
+            <summary>
+            Turn the lamp off
+            </summary>
+        </member>
+    </members>
+</doc>
